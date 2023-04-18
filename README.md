@@ -10,6 +10,7 @@ These are basic functions to perform single actions on the firestore database an
     <li>Firebase Admin SDK</li>
     <li>Node JS</li>
 </ul>
+
 #### Client SDK
 <ul>
     <li>Firebase Client SDK</li>
