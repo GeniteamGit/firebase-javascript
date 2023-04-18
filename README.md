@@ -34,7 +34,7 @@ These are basic functions to perform single actions on the firestore database an
 │   └── README.MD <br>
 ├── client-sdk/ <br>
 │   ├── AddDoc/ <br>
-│   │   └── Addoc.js <br>
+│   │   └── AddDoc.js <br>
 │   ├── config/ <br>
 │   │   └── firebase.js <br>
 │   ├── DeleteDoc/ <br>
@@ -52,6 +52,6 @@ These are basic functions to perform single actions on the firestore database an
 
 ### Installation
 #### Admin SDK
-```bash npm i firebase-admin ``` <br>
+```npm i firebase-admin ``` <br>
 #### Client SDK
-```bash npm i firebase ``` <br>
+```npm i firebase ``` <br>
